@@ -21,7 +21,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Specify a customized theme, via path relative to the settings file
-THEME = "theme/minimalist"
+THEME = "theme/formal"
 THEME_STATIC_DIR = 'static'
 
 LOAD_CONTENT_CACHE = False
@@ -51,22 +51,10 @@ DISPLAY_CATEGORIES_ON_MENU = True
 
 MENUITEMS = (
     ('Blog', '/'),
-    ('Portfolio', '/pages/portfolio.html'),
     ('About', '/pages/about.html')
 )
 
 READERS = {'html': None}
-
-#MARKDOWN = {
-#    'extension_configs': {
-#        'markdown.extensions.tables':{},
-#}
-#    }
-
-#from markdown.extensions.tables import TableExtension
-#MARKDOWN = {
-#    "extensions": [TableExtension()]    
-#}
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

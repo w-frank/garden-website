@@ -1,6 +1,6 @@
-# Personal Site
+# Gardening Site
 
-My [personal site](https://willfrank.co.uk) built with [Pelican](http://getpelican.com) and [GitHub Pages](https://pages.github.com).
+My [gardening site](https://willfrankgardens.co.uk) built with [Pelican](http://getpelican.com) and [GitHub Pages](https://pages.github.com).
 
 ## Development
 To preview the site during development:

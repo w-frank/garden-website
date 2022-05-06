@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Will Frank'
-SITENAME = 'WILL FRANK'
+SITENAME = 'Will Frank'
 SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'Europe/London'
@@ -22,7 +22,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Specify a customized theme, via path relative to the settings file
-THEME = "theme/minimalist"
+THEME = "theme/formal"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -50,10 +50,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
     ('Blog', '/'),
-    ('Portfolio', '/pages/portfolio.html'),
     ('About', '/pages/about.html')
 )
-
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
