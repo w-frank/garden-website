@@ -2,7 +2,7 @@ Title: How to plant a herb garden in a container
 Date: 2022-05-06 06:02
 Modified: 2022-05-06 06:02
 Category: gardening
-Tags: gardening, kitchen
+Tags: gardening, edibles
 Slug: herb-pot-1
 Authors: Will Frank
 Summary: A guide to growing your own Mediterranean herb garden in a small space.
