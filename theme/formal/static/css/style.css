@@ -254,8 +254,8 @@ img[alt=img-quart-width] {
     border-radius: 50%;
 }
 
-/* Instagram */
+/* Instagram icon */
 .fa-instagram {
-    background: white;
+    background: none;
     color: rgba(37,53,69,1.0);;
 }
