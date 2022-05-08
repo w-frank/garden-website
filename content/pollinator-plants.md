@@ -2,7 +2,7 @@ Title: Planting for nature: Our top 10 wildlife-friendly plants
 Date: 2020-09-02 09:50
 Modified: 2020-09-02 09:50
 Category: Gardening
-Tags: wildlife, conservation, gardening
+Tags: gardening, wildlife, conservation
 Slug: pollinator-plants
 Authors: Will Frank
 Summary: Discover the top 10 plants that will turn your garden into a haven for nature.

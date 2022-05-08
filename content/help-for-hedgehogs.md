@@ -13,7 +13,7 @@ being placed on the Red List for British Mammals in 2020. Our gardens provide a 
 for these creatures so here are 10 things you can do in your garden to give them the helping hand they 
 desperately need.
 
-## 1. Keep a corner of your garden wild
+## 1. Keep a wild corner
 
 Leaving a pile of leaves, logs or twigs in a quiet corner of the garden can create the perfect habitat for hedgehogs, providing a warm, dry and secluded place for them to nest in and hibernate. It will also attract a range of invertebrates, such as slugs and beetles, into your garden which make a great hedgehog snack.
 
