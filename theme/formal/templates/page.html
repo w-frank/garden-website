@@ -2,6 +2,14 @@
 {% block indextitle %}{% endblock %}
 {% block content %}
 <div class='page'>
-    <div>{{ page.content }}</div>
+    {% if page.title == "Journal" %}
+    <div class='journal'>
+        {{ page.content }}
+    </div>
+    {% else %}
+    <div>
+        {{ page.content }}
+    </div>
+    {% endif %}
 </div>
 {% endblock %}

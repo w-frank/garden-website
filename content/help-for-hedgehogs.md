@@ -5,13 +5,14 @@ Category: gardening
 Tags: gardening, wildlife, conservation
 Slug: hedgehogs-1
 Authors: Will Frank
-Summary: Turn your back garden into a haven for hedgehogs and help this now endangered species.
+Summary: Turn your garden into a haven for hedgehogs and help this now endangered species.
 Image: ./images/hedgehog.jpg
 
-Hedgehogs numbers in Britain have fallen dramatically in recent years leading to them
-being placed on the Red List for British Mammals in 2020. Our gardens provide a crucial habitat
-for these creatures so here are 10 things you can do in your garden to give them the helping hand they 
-desperately need.
+Hedgehogs numbers in Britain have fallen dramatically in recent years, with over half being lost since 2000, 
+leading to them being placed on the Red List for British Mammals in 2020. While the cause of the deline is not completely understood it is thought to be down to the continuing intensification of agriculture, the fragmentation of
+habitat (particularly in urban areas), and predation by badgers.
+
+Our gardens provide a crucial habitat for these creatures so here are 10 things you can do in your garden to give them the helping hand they so desperately need.
 
 ## 1. Keep a wild corner
 
@@ -23,7 +24,7 @@ Planting a fruit tree (pear, apple, or cherry) can encourage invertebrates into 
 
 ## 3. Avoid chemicals
 
-Ditch the chemicals and go organic in your garden. Using herbicides on your lawn can reduce earthworm populations, a key hedgehog food. Slug pellets and pesticides can also make hedgehogs very ill or even kill them. Hedgehogs
+Ditch the chemicals and go organic. Using herbicides on your lawn can reduce earthworm populations, a key hedgehog food. Slug pellets and pesticides can also make hedgehogs very ill or even kill them. Hedgehogs
 are a key slug preditor so encouraging them is a natural way to limit slugs!
 
 ## 4. Create hedgehog highways
@@ -43,7 +44,7 @@ hedgehogs have an easy way out.
 
 ## 7. Check before strimming or mowing
 
-Strimming and mowing are one of the most common injuries to hedghogs. Before strimming or mowing
+Strimming and mowing are the most common injuries to hedghogs. Before strimming or mowing
 check long grass for hedgehogs. If you find any move them to a safe spot well out of harms way.
 
 ## 8. Provide food and water
@@ -55,7 +56,7 @@ with supplementary food, especially before and after winter hibernation. Offer m
 
 Hedgehogs can mistake a bonfire for the perfect hiberation spot. Preferrably light a bonfire
 on the same day you build it or dismantle it and rebuild it just before lighting. This ensures that
-no hedgehogs are inside when lit.
+no hedgehogs are caught inside when lit.
 
 ## 10. Raise awareness
 

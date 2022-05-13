@@ -1,6 +1,7 @@
 # Soil Science
 
 ## Overview
+
 The soil is one of the most important and complex ecosystems on the planet. Organisms breakdown matter. Respiration oxygen to CO2, water and heat. Living and dead organisms and humus. 0.5-5% volume organic.
 Peat 35-100% organic matter.
 Plant roots,  earthworms, insects, fungi bacteria.
@@ -11,7 +12,8 @@ Non-living - dead animals and plants, animal waste, green manures. Provides food
 Humus - water retention, soils warms up more quickly in spring (dark colour)
 
 ## Composting
-Organic matter decomposition - soil organims. 
+
+Organic matter decomposition - soil organisms. 
 Particle size decreases.
 Energy transfer to organisms.
 Waste energy as heat.
