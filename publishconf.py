@@ -49,9 +49,14 @@ DEFAULT_PAGINATION = 5
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
-    ('Blog', '/'),
+    ('Articles', '/'),
+    ('Journal', '/pages/journal.html'),
     ('About', '/pages/about.html')
 )
+
+DIRECT_TEMPLATES = [
+    'index', 'categories', 'authors', 'archives',  # (default)
+]
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

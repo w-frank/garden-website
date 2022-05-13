@@ -50,11 +50,16 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = True
 
 MENUITEMS = (
-    ('Blog', '/'),
+    ('Articles', '/'),
+    ('Journal', '/pages/journal.html'),
     ('About', '/pages/about.html')
 )
 
 READERS = {'html': None}
+
+DIRECT_TEMPLATES = [
+    'index', 'categories', 'authors', 'archives',  # (default)
+]
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
