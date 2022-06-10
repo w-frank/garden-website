@@ -71,12 +71,12 @@
         {% endif %}
     </div>
     <div class="col-md-3">
-        <h4>Recent Posts</h4>
+        <h2>Recent Posts</h2>
         {% set recent = articles if not all_articles else all_articles %}
         <ul id="recent-posts">
             {% for a in recent %}
             {% if loop.index <= 6 %}
-            <li><a href="{{ SITEURL }}/{{ a.url }}">{{ a.title }}</a></li>
+            <li><a class="article-link" href="{{ SITEURL }}/{{ a.url }}">{{ a.title }}</a></li>
             {% endif %}
             {% endfor %}
         </ul>
@@ -88,10 +88,10 @@
             {% endfor %}
         </ul>
         -->
-        <h4>Tags</h4>
+        <h2>Tags</h2>
         <ul id="tag-list">
             {% for tag, articles in tags %}
-            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
+            <li><a class="article-link" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
             {% endfor %}
         </ul>
     </div>

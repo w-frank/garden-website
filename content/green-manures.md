@@ -1,6 +1,6 @@
 Title: 12 plants used for green manuring
-Date: 2022-05-03 15:18
-Modified: 2022-05-03 15:18
+Date: 2022-05-01 15:18
+Modified: 2022-05-01 15:18
 Category: gardening
 Tags: gardening
 Slug: green-manure-1
@@ -10,10 +10,11 @@ Image: ./images/green-manure.jpg
 
 Green manures are used in vegetable plots and in organic growing systems
 to cover bare ground (normally outside the growing season. e.g. over winter).
-The seeds are typically broadcast sown in autumn when there are no overwintering plants.
-Once established, the green manure is then dug in or cut, left to wilt and then dug into the soil.
+The seeds are typically broadcast sown in autumn when there are no overwintering
+plants. Once established, the green manure is then dug in or cut, left to wilt
+and then dug into the soil.
 
-The benefits of green manures are:
+The benefits of using green manures are:
 
 * Cover bare ground
 * Out compete weeds
@@ -24,9 +25,9 @@ The benefits of green manures are:
 * Develop and maintain healthy soil fertility and structure
 
 Green manures are typically agricultral plants that quickly cover the
-ground and put on a large amount of leaf.
+ground and put on a large amount of leaf in a short space of time.
 
-Here are 12 plants that make excellent green manures:
+Here are 12 plants to try that make excellent green manures:
 
 * *Lupinus angustifolius* (Bitter blue lupin)
 * *Medicago lupulina* (Trefoil)

@@ -23,7 +23,7 @@ Reduce landwill waste. Benefical end product.
 Mulches and fertiliser.
 Better stability and structure.
 Increase water retention.
-Imporve drainage.
+Improve drainage.
 Encourage benefical organisms.
 Grass cuttings, leaves, bark, prunings.
 Undercooked fruit and veg, newspapers and cardboard.

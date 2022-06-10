@@ -1,11 +1,11 @@
-Title: The best gardening books
-Date: 2022-05-05 08:59
-Modified: 2022-05-05 08:59
+Title: The best botany books for gardeners
+Date: 2022-05-15 08:59
+Modified: 2022-05-15 08:59
 Category: gardening
 Tags: gardening
-Slug: favourite-books-1
+Slug: botany-books-1
 Authors: Will Frank
-Summary: My top reads for a spot of armchair gardening.
+Summary: My top reads for discovering the scientific wonders of the garden!
 Image: ./images/books.jpg
 
 ## Science and the Garden: The Scientific Basis of Horticultural Practice
