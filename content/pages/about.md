@@ -1,5 +1,7 @@
 Title: About
 
+![img-about](../images/me.jpg)
+
 I'm a plantsperson, gardener, and designer. This is a space for me to share my
 love of plants and document my explorations in horticulture and botany.
 

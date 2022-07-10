@@ -9,7 +9,7 @@ Summary: Learn how to bring these mountain dwellers into your garden.
 Image: ./images/alpine-plants.jpg
 
 Alpines are plants that grow naturally in an alpine climate, which occurs at
-high elevation above the tree line in the mountains or alpine tundra.
+high elevation above the tree line in the mountain regions or alpine tundra.
 
 Alpine plants have a range of adaptations that allow them to survive in the
 environmental extremes of the exposed habitats of the alpine zone.
@@ -17,9 +17,9 @@ environmental extremes of the exposed habitats of the alpine zone.
 Many alpines are small perennials with a low, compact form. This minimises water
 loss from evaporation and also provides protection from the crushing weight of
 winter snows and the strong winds of spring and summer. The layer of air close
-the ground is also warmer and better supports plant growth.
+to the ground is also warmer and better supports plant growth.
 
-Due to the short growing season (as little as six weeks!) in the alpine zone,
+Due to the short growing season (as little as six weeks) in the alpine zone,
 many alpines are evergreen. This is because they can't afford to produce new
 leaves every year in such a short space of time.
 
