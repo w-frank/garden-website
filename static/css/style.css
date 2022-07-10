@@ -362,6 +362,17 @@ img[alt=img-quart-width] {
     filter: saturate(50%);
 }
 
+img[alt=img-float-left] {
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-bottom: 10%;
+    max-width: 50%;
+    height: auto;
+    filter: saturate(75%);
+    float: left;
+}
+
 img[alt=img-float-right] {
     display: block;
     margin-left: 10%;
@@ -382,6 +393,18 @@ img[alt=img-full-width] {
     max-width: 100%;
     height: auto;
     filter: saturate(75%);
+}
+
+img[alt=img-about] {
+    display: block;
+    margin-left: auto;
+    margin-right: 5%;
+    margin-bottom: 100%;
+    max-width: 20%;
+    height: auto;
+    filter: saturate(75%);
+    float: left;
+    border-radius: 50%;
 }
 
 /* ICONS */
