@@ -8,8 +8,7 @@ love of plants and document my explorations in horticulture and botany.
 I have been growing flowers, fruits, and vegetables in an organic way ever since
 taking over a wild patch at the bottom of my parents garden as a teenager. I am
 passionate about sustainable, organic gardening and farming practices as well
-as gardening for wildlife. I have also recently become interested in growing 
-alpine plants and their ecology.
+as gardening for wildlife.
 
 I am also a huge advocate of the physical and mental well-being benefits from
 taking part in meaningful activity outdoors.
