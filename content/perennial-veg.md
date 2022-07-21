@@ -17,7 +17,7 @@ sowing, planting, and raising new plants that is needed every year when growing
 annuals.
 
 Perennials can also be help to maintain soil structure as they don't need to be
-dug up and the soil is left undisturbed.
+dug up and the soil is left to thrive undisturbed.
 
 Here are some of my favourite perennial vegetables to get started with:
 
