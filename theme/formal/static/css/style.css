@@ -367,7 +367,7 @@ img[alt=img-float-left] {
     margin-left: 10%;
     margin-right: auto;
     margin-bottom: 10%;
-    max-width: 50%;
+    width: 40%;
     height: auto;
     filter: saturate(75%);
     float: left;
@@ -378,7 +378,18 @@ img[alt=img-float-right] {
     margin-left: 10%;
     margin-right: auto;
     margin-bottom: 10%;
-    max-width: 50%;
+    width: 40%;
+    height: auto;
+    filter: saturate(75%);
+    float: right;
+}
+
+img[alt=img-float-right-text] {
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-bottom: 10%;
+    width: 50%;
     height: auto;
     filter: saturate(75%);
     float: right;
