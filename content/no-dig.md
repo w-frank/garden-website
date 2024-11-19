@@ -5,7 +5,7 @@ Category: gardening
 Tags: gardening
 Slug: no-dig-1
 Authors: Will Frank
-Summary: Learn how to grow crops without lifting a spade.
+Summary: Learn how to grow crops without lifting your spade.
 Image: ./images/no-dig.jpg
 
 No-dig gardening is a growing method that avoids cultivation of the soil. 

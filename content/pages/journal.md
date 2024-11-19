@@ -17,7 +17,7 @@ way through the thick mass of intertwined iris rhizomes, thinning the
 _Alchemilla mollis_, and clearing as we went. We removed the large ferns as they
 had become out of proportion and also cut back the water lily (_Nymphaea alba_)
 to a more managable size. In the process we uncovered a dwarf _acer palmatum_ 
-which was a pleasnt surprise and adds an oriental touch to the design.
+which was a pleasnt surprise and adds an East Asian touch to the design.
 
 Following this, any remaining debris on the surface was cleared by hand with a
 rake. We left all the removed material by the side of the pond over night to
